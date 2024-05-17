@@ -1,0 +1,14 @@
+---
+title: "test document"
+author: "Ada Chibueze"
+format: html
+---
+
+## 
+
+here is some code
+
+```{r}
+library(tidyverse)
+library(lterdatasampler)
+```
